@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning superradiant instability of BHs and deep learning in GWs, etc.  
 - 👯 I’m looking to collaborate on solving PDEs from Einstein's field equation with deep learning and any astrophysical phenomena which may have connections with GWs.
 - 💬 Ask me about anything you think we could talk about.
-- 📫 How to reach me:
-- email: zwlyu@pku.edu.cn
+- 📫 Reach me by email: zwlyu@pku.edu.cn
 - 
 
 
