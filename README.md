@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Zhenwei Lyu
 
-- 🔭 I’m currently focusing on gravitational waveforms with masss transfer effects and their applications to binary evolution in astrophysics.
+- 🔭 I’m currently focusing on GW waveforms with masss transfer effects and their applications to binary evolution in astrophysics.
 - 🌱 I’m currently learning superradiant instability of BHs and deep learning in GWs, etc.  
 - 👯 I’m looking to collaborate on solving PDEs from Einstein's field equation with deep learning and any astrophysical phenomena which may have connections with GWs.
 - 💬 Ask me about anything you think we could talk about.
