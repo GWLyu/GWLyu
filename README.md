@@ -1,4 +1,4 @@
-## Hi there 👋 This is Zhenwei Lyu, 
+## Hi there 👋 This is Zhenwei Lyu
 - #### Boya Fellow at Peking University
 
 - 🔭 I’m currently focusing on GW waveforms with mass transfer effects and their applications to binary evolution in astrophysics.
