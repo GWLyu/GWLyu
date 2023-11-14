@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Zhenwei Lyu, 
-#### Boya Fellow at Peking University
+- #### Boya Fellow at Peking University
 
 - 🔭 I’m currently focusing on GW waveforms with mass transfer effects and their applications to binary evolution in astrophysics.
 - 🌱 I’m currently learning superradiant instability of BHs and deep learning in GWs, etc.  
