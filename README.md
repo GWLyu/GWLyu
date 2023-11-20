@@ -2,8 +2,8 @@
 - #### Boya Fellow at Peking University
 
 - 🔭 I’m currently focusing on GW waveforms with mass transfer effects and their applications to binary evolution in astrophysics.
-- 🌱 I’m currently learning superradiant instability of BHs and deep learning in GWs, etc.  
-- 👯 I’m looking to collaborate on solving PDEs from Einstein's field equation with deep learning and any astrophysical phenomena which may have connections with GWs.
+- 🌱 I’m currently learning superradiant instability of BHs in GWs, etc.  
+- 👯 I’m looking to collaborate on any astrophysical phenomena which may have connections with GWs.
 - 💬 Ask me about anything you think we could talk about.
 - 📫 Reach me by email: zwlyu@pku.edu.cn
 - 
