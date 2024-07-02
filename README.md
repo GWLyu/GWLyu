@@ -1,8 +1,8 @@
 ## Hi there 👋 This is Zhenwei Lyu
 - #### Boya Postdoctoral Fellow at Peking University
 
-- 🔭 I’m currently focusing on GW waveforms with mass transfer effects and their applications to binary evolution in astrophysics.
-- 🌱 I’m currently studying the superradiant instability of black holes in gravitational waves, etc.  
+- 🔭 I’m currently focusing on wet EMRIs in multi-messenger astrophysics.
+- 🌱 I’m currently studying the deep-learning techniques and the opportunities in GW science.  
 - 👯 I'm seeking collaboration on astrophysical phenomena that may be connected to gravitational waves.
 - 💬 Feel free to inquire about any topic you'd like to discuss.
 - 📫 Contact me via email: zwlyu@pku.edu.cn
