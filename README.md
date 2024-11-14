@@ -1,11 +1,11 @@
 ## Hi there 👋 This is Zhenwei Lyu
-- #### Boya Postdoctoral Fellow at Peking University
+- ####  Assistant professor at Dalian University of Technology
 
 - 🔭 I’m currently focusing on implications of wet EMRIs in multi-messenger astrophysics.
 - 🌱 I’m currently studying the deep-learning techniques and the opportunities in GW science.  
 - 👯 I'm seeking collaboration on astrophysical phenomena that may be connected to gravitational waves.
 - 💬 Feel free to inquire about any topic you'd like to discuss.
-- 📫 Contact me via email: zwlyu@pku.edu.cn
+- 📫 Contact me via email: zwlyu@dlut.edu.cn
 - 
 
 
