@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Zhenwei Lyu
-- ####  Assistant professor at Dalian University of Technology
+
 
 - 🔭 I’m currently focusing on implications of wet EMRIs in multi-messenger astrophysics.
 - 🌱 I’m currently studying the deep-learning techniques and the opportunities in GW science.  
